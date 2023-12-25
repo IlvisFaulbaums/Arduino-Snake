@@ -1,5 +1,5 @@
 # Arduino-Snake
-Arduino Game Snake alike, needs Arduino board, Infrared Receiver and 4 digit display.
+Arduino Game Snake alike, needs Arduino board, Infrared Receiver and 4 digit display and any Remote control, I used to catch codes from my Music Center remote.
 
 Preview:
 
